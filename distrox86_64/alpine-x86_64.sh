@@ -2,5 +2,5 @@ DISTRO_NAME="Alpine Linux x86_64"
 DISTRO_COMMENT="Rolling release branch (edge)."
 
 TARBALL_URL['x86_64']="https://github.com/termux/proot-distro/releases/download/v4.6.0/alpine-x86_64-pd-v4.6.0.tar.xz"
-TARBALL_SHA256['x86_64']="96fa1c08ee380405141848a191237ccaeca7c547f5f2f2b7ed3662cd1758252d"
+TARBALL_SHA256['x86_64']="7b3d51714226cfe1bc1a115316e9d1d9ebc3ac2eb92389bc0e5b5f01ac04ee0b
 DISTRO_ARCH="x86_64"
